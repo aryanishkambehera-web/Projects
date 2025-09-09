@@ -1,6 +1,6 @@
-# 🚀 ATS-Friendly Mini Projects
+ 
 
-This repository contains **three beginner-friendly projects** (Python + C++) that demonstrate skills in programming, file handling, automation, data visualization, and security.
+This repository contains ** projects** (Python + C++) that demonstrate skills in programming, file handling, automation, data visualization, and security.
 
 ---
 
